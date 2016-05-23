@@ -1,0 +1,6 @@
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache

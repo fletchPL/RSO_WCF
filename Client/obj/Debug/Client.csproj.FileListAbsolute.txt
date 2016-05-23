@@ -1,0 +1,8 @@
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\bin\Debug\Client.exe.config
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\bin\Debug\Client.exe
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\bin\Debug\Client.pdb
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\bin\Debug\WcfServiceLibrary1.dll
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\bin\Debug\WcfServiceLibrary1.pdb
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\obj\Debug\Client.exe
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Client\obj\Debug\Client.pdb

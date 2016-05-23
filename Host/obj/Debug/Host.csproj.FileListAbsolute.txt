@@ -1,0 +1,7 @@
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Host\bin\Debug\Host.exe
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Host\bin\Debug\Host.pdb
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.dll
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Host\bin\Debug\WcfServiceLibrary1.pdb
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Host\obj\Debug\Host.exe
+F:\Studia\semestr 6\RSO\WCF\WcfServiceLibrary1\Host\obj\Debug\Host.pdb
